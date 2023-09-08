@@ -1,0 +1,15 @@
+# 使用 Python 创建和输出数组
+fruits = [apple, banana, orange]
+for fruit in fruits:
+  print(fruit)
+
+// 使用 C++ 创建和输出数组
+#include <iostream>
+using namespace std;
+int main() {
+  string fruits[] = { apple, banana, orange };
+  for (string fruit : fruits) {
+    cout << fruit << endl;
+  }
+  return 0;
+}

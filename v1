@@ -1,0 +1,9 @@
+# 使用 Python 输出 Hello World
+print(Hello World)
+
+// 使用 C 输出 Hello World
+#include <stdio.h>
+int main() {
+  printf(Hello World);
+  return 0;
+}
